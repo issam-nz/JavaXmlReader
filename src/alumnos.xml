@@ -1,0 +1,57 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<alumnos>
+    <alumno id="1" media="7">
+        <edad>18</edad>
+        <telefono>123456789</telefono>
+        <asignaturasMatriculadas>4</asignaturasMatriculadas>
+        <asignaturas>
+            <asignatura titulo="Matemáticas" nota="8.5"></asignatura>
+            <asignatura titulo="Física" nota="7"></asignatura>
+            <asignatura titulo="Química" nota="6.5"></asignatura>
+            <asignatura titulo="Inglés" nota="7.5"></asignatura>
+        </asignaturas>
+    </alumno>
+    <alumno id="2" media="9">
+        <edad>19</edad>
+        <telefono>234567890</telefono>
+        <asignaturasMatriculadas>5</asignaturasMatriculadas>
+        <asignaturas>
+            <asignatura titulo="Programación" nota="9.5"></asignatura>
+            <asignatura titulo="Base de datos" nota="8.5"></asignatura>
+            <asignatura titulo="Redes" nota="9"></asignatura>
+            <asignatura titulo="Inglés" nota="9"></asignatura>
+            <asignatura titulo="Matemáticas" nota="8"></asignatura>
+        </asignaturas>
+    </alumno>
+    <alumno id="3" media="6">
+        <edad>20</edad>
+        <telefono>345678901</telefono>
+        <asignaturasMatriculadas>3</asignaturasMatriculadas>
+        <asignaturas>
+            <asignatura titulo="Economía" nota="5"></asignatura>
+            <asignatura titulo="Derecho" nota="6"></asignatura>
+            <asignatura titulo="Estadística" nota="6"></asignatura>
+        </asignaturas>
+    </alumno>
+    <alumno id="4" media="8">
+        <edad>19</edad>
+        <telefono>456789012</telefono>
+        <asignaturasMatriculadas>4</asignaturasMatriculadas>
+        <asignaturas>
+            <asignatura titulo="Historia" nota="8"></asignatura>
+            <asignatura titulo="Geografía" nota="8.5"></asignatura>
+            <asignatura titulo="Lengua" nota="3"></asignatura>
+            <asignatura titulo="Filosofía" nota="9"></asignatura>
+        </asignaturas>
+    </alumno>
+    <alumno id="5" media="5">
+        <edad>18</edad>
+        <telefono>567890123</telefono>
+        <asignaturasMatriculadas>3</asignaturasMatriculadas>
+        <asignaturas>
+            <asignatura titulo="Música" nota="6"></asignatura>
+            <asignatura titulo="Arte" nota="5"></asignatura>
+            <asignatura titulo="Educación física" nota="4"></asignatura>
+        </asignaturas>
+    </alumno>
+</alumnos>
